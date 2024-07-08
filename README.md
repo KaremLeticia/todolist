@@ -17,3 +17,5 @@ Remover Tarefas: Remova tarefas da lista conforme necessário.
 # Objetivo
 
 Este projeto foi desenvolvido como parte dos estudos em desenvolvimento web, focando no treinamento das habilidades de manipulação do DOM, aplicação de estilos CSS e gerenciamento de eventos com JavaScrip
+
+Link: https://todolist-murex-alpha.vercel.app/
